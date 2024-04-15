@@ -16,8 +16,9 @@
 
 > **关键词：**单细胞聚类；非负矩阵分解；图自编码器；零膨胀负二项分布；多视图；自监督
 
-![](https://gitee.com/lqhg/blog-img/raw/master/images/lunwen.png)
+# ![](https://gitee.com/lqhg/blog-img/raw/master/images/lunwen.png)
 
+![](./lunwen.png)
 ## 小论文
 
 1. Shu Z, Long Q, Zhang L, et al. Robust Graph Regularized NMF with Dissimilarity and Similarity Constraints for ScRNA-seq Data Clustering[J]. Journal of Chemical Information and Modeling, 2022, 62(23): 6271-6286.
